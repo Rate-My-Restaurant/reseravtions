@@ -19,7 +19,7 @@
     "start-container": "npm run seed-postgres && npm run start"
   },
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "cors": "^2.8.5",
     "csv-writer": "^1.6.0",
     "enzyme": "^3.11.0",
